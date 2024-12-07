@@ -1,5 +1,0 @@
-VIA_ENABLE = yes
-VIAL_ENABLE = yes
-
-COMBO_ENABLE = no
-QMK_SETTINGS = no

@@ -1,8 +1,0 @@
-VIA_ENABLE = yes
-VIAL_ENABLE = yes
-ENCODER_MAP_ENABLE = yes
-# space saving measures
-LTO_ENABLE = yes
-TAP_DANCE_ENABLE = no
-KEY_OVERRIDE_ENABLE = no
-QMK_SETTINGS = no
